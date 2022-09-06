@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Hero />
+      <Hero className="w-screen"/>
       <CarShop />
       <Footer />
     </div>

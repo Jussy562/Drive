@@ -2,7 +2,7 @@ import React from 'react'
 
 function NavBar() {
   return (
-    <nav class='bg-none  px-6 py-5 shadow md:flex md:justify-between md:item-center  text-gray-900'>
+    <nav class='bg-none  px-12 py-5 shadow md:flex md:justify-between md:item-center  text-gray-900'>
       
       
        <div className='flex justify-between item-center'>
